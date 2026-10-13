@@ -13,4 +13,4 @@ Graduado em Administração de Empresas e Desenvolvedor Front-end focado em dese
 ### Projetos que estou trabalhando no momento
 
 ### 📫 Contato 
-![Linkedin](https://www.linkedin.com/in/ramonnyramos/)
+- [Linkedin](https://www.linkedin.com/in/ramonnyramos/)
