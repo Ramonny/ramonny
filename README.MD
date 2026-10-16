@@ -2,6 +2,18 @@
 ## 👋 Sobre mim
 Graduado em Administração de Empresas e Desenvolvedor Front-end focado em desenvolver aplicações Web no React.
 
+### 🚀 Missão
+Criar interfaces bonitas, responsivas e que facilitem a vida do usuário.
+
+### ❤️ Valores
+- Interfaces bonitas e experiência do usuário como prioridade
+- Código limpo e bem documentado
+- Aprendizado contínuo
+- Compartilhamento de conhecimento
+
+### 🎯 Especialização
+Front-end com foco em React
+
 ### 🛠 Tecnologias 
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
